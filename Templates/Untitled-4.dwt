@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ghgh</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#contenedor {
+	background-color: #070606;
+	background-image: url(../ACTIVIDAD%202/Carro11.JPG);
+	background-repeat: no-repeat;
+	padding: 0px;
+	height: 1000px;
+	width: 1080px;
+	border-width: 1px;
+	border-style: solid;
+	position: absolute;
+	top: 0px;
+	clip: rect(1px,auto,auto,auto);
+}
+</style>
+</head>
+
+<body>
+<div id="contenedor">Colocar aquí el contenido para  id "contenedor"</div>
+</body>
+</html>
